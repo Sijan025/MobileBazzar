@@ -1,10 +1,8 @@
-Here's a clean, professional `README.md` for your MobileBazaar project that you can copy and paste directly into GitHub:
 
-```markdown
 # 📱 MobileBazaar
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/mobilebazaar)
-![GitHub license](https://img.shields.io/github/license/yourusername/mobilebazaar)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sijan025/MobileBazaar)
+![GitHub license](https://img.shields.io/github/license/Sijan025/MobileBazaar)
 
 A complete marketplace for buying and selling used mobile phones at affordable prices.
 
@@ -41,7 +39,7 @@ A complete marketplace for buying and selling used mobile phones at affordable p
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/mobilebazaar.git
+   git clone https://github.com/Sijan025/MobileBazaar.git
    cd mobilebazaar
    ```
 
